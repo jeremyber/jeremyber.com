@@ -1,6 +1,6 @@
 ---
 title: React Component with Dot Notation
-date: 2018-04-07
+date: 2015-01-20 12:09:42
 tags: [javascript, react]
 description: Learn how to define a React component that is accessible through the dot notation. A common component pattern to show a parent-child relation.
 ---
