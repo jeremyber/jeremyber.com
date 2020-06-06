@@ -5,7 +5,7 @@ description: >-
   about things he likes here. That is not limited to but including
   music, movies, software, technology, video games and occasionally dumb stuff.
   lang: en-US
-timezone: US/Chicago
+timezone: America/Chicago
 image: assets/img/profile.jpg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/jeremyber
 mode: dark # default theme "dark" | "light"
@@ -17,7 +17,7 @@ author:
     Hi, I'm Jeremy. Welcome to my website!
   username: jeremyber
   email: jeremydber@gmail.com
-  avatar: /assets/img/avatar.jpg
+  avatar: /assets/img/profile.jpg
 
 # Url settings
 url: "http://jeremyber.com"
