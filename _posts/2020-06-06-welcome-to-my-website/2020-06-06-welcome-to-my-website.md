@@ -1,7 +1,7 @@
 ---
 title: Welcome to my website, this is my first post.
 date: 2020-06-06 18:00:00
-tags: [welcome]
+tags: [thoughts, text]
 description: Learn how to define a React component that is accessible through the dot notation. A common component pattern to show a parent-child relation.
 ---
 
