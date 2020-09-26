@@ -1,5 +1,5 @@
 ---
-title: Desinging a Jekyll Site on AWS with Github
+title: Designing a Jekyll Site on AWS with Github
 date: 2020-06-12 18:33:00
 tags: [website, tutorial, tech]
 description: Learn how to create a website for very cheap!
