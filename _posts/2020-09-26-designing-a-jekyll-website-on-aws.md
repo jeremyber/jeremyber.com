@@ -6,11 +6,11 @@ description: Learn how to create a website for very cheap!
 ---
 # How to make a very inexpensive but nice looking website using Jekyll, Github, Github Actions, Amazon S3 and Amazon Cloudfront
 
-![Jekyll Icon](../../assets/img/jekyll.png)
-![Github Icon](../../assets/img/github.png)
-![Actions Icon](../../assets/img/actions.png)
-![S3 Icon](../../assets/img/s3.png)
-![Cloudfront Icon](../../assets/img/cloudfront.png)
+![Jekyll Icon](/assets/img/jekyll.png)
+![Github Icon](/assets/img/github.png)
+![Actions Icon](/assets/img/actions.png)
+![S3 Icon](/assets/img/s3.png)
+![Cloudfront Icon](/assets/img/cloudfront.png)
 
 Check out the video below for a walkthrough!
 
