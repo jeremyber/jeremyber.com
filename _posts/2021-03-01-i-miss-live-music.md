@@ -11,4 +11,5 @@ About a year ago today is when music venues across Chicago, Illinois shut down d
 
 So I'm kind of peculiar, and I like to track all the shows I go to--below you'll find a chart of the total number of shows I had gone to in a single year, starting in 2009. Some memorable moments there, including Band of Horses in 2013, Phish...every year. But you can see a notable drop off, I think I went to four shows in 2020--Flosstradamus, Deadmau5, Opeth, and Umphrey's Mcgee twice at a drive in! (Okay, that was pretty sweet). Other than that, there was no Lollapalooza with the buds, no Pitchfork with a brew, no street festivals or cold winter shows at Schubas. It was a difficult year for everyone, but this was where I found my joy.
 
+
 ![Bar chart of live music per year](/assets/img/bar-chart.png)
