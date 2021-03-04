@@ -13,3 +13,16 @@ So I'm kind of peculiar, and I like to track all the shows I go to--below you'll
 
 
 ![Bar chart of live music per year](/assets/img/bar-chart-by-year.png)
+
+
+So what does 2021 hold? Well, it seems as though concerts may make a return at some point. Given the fact that Chicago now boasts 50% capacity bars that are open until 1AM, it seems that a limited attendance concert would not be out of the question. Picture it: you walk in to a segmented dance hall, your row? B6. You stand there with a 16oz Schlitz in your hand, can barely see the stage, yet a profound sense of normalcy overcomes you as the band--Twin Peaks, comes on stage. "How's everybody doin'?"
+
+That will be epic.
+
+Although I do see music venues coming back, there will be something lost about them--a sense of gathering, a group consensus whether or not the band is good. People may be afraid of each other for a long time, and this will be detrimental to the overall live music experience. Mosh pits? Stage diving? Forget about it. Night clubs where you grind on the dark figure next to you, only to find out that it's actually a coat rack? Okay that would be pretty funny, but probably isn't happening anytime soon.
+
+You know what is happening, though? Movies. Movies are exploding, and Warner Brothers decision to release all of its 2021 releases on HBO Max was a gigantic blow for movie theatres everywhere. The fact that I will be able to watch Godzilla vs. King Kong at home on my phone is so depressing. A film like that deserves to be seen on the largest, loudest screen you can find, with bass so deep it rattles your bones. Clearly this move was a cash grab, so I can't blame Warner Brothers or HBO Max, however it did singe my heart just a little bit. 
+
+So as I write this, the Academy Awards happen next month, and according to Letterboxd, I saw [32 films released in 2020](https://letterboxd.com/beramiah/films/year/2020/). That being said, it was a tough year for films, including Christopher Nolan's Tenet. Some notable highlights from 2020: 'Possessor', 'Horse Girl', 'The Way Back', 'Sputnik', 'The Rental', and 'Hillbilly Elegy' will likely all be ignored by the Oscars vying for more contemporary artsy films that no one has seen yet because they aren't available except in California. What was the last movie you saw in theatres?
+
+This is all to say that I am hopeful for the return to movie theatres, a return to concert venues, and a return to my old life. This summer "will be wild", as they say. And if it's not, then I'll probably just write another blog about it.
