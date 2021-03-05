@@ -2,7 +2,7 @@
 title: About
 ---
 
-## Professionaly
+## Professionally
 
 I'm a Solutions Architect at a Cloud Computing company--I love to help people solve their problems in efficient ways. Empathy is a strength and a weakness as I have a passion for helping solve the problems I myself have encountered.
 
@@ -38,4 +38,3 @@ I love all things creative--music, movies, art, science, and especially comedy.
 
 What about you?
 
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="jeremyber" data-description="Support me on Buy me a coffee!" data-message="" data-color="#ff813f" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
