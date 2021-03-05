@@ -1,7 +1,7 @@
 ---
 title: Designing a Jekyll Site on AWS with Github
 date: 2020-09-26 18:33:00
-tags: [website, tutorial, tech]
+tags: [website, tutorial, tech, video]
 description: Learn how to create a website for very cheap!
 ---
 # How to make a very inexpensive but nice looking website using Jekyll, Github, Github Actions, Amazon S3 and Amazon Cloudfront

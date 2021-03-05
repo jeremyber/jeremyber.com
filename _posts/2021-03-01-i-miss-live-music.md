@@ -1,7 +1,7 @@
 ---
 title: I Miss Live Music
-date: 2021-03-01 22:15:00
-tags: [covid, live, music, phish]
+date: 2021-03-01
+tags: [text, covid, live, music, phish]
 description: Do you miss it too?
 ---
 # I Miss Live Music
@@ -21,8 +21,8 @@ That will be epic.
 
 Although I do see music venues coming back, there will be something lost about them--a sense of gathering, a group consensus whether or not the band is good. People may be afraid of each other for a long time, and this will be detrimental to the overall live music experience. Mosh pits? Stage diving? Forget about it. Night clubs where you grind on the dark figure next to you, only to find out that it's actually a coat rack? Okay that would be pretty funny, but probably isn't happening anytime soon.
 
-You know what is happening, though? Movies. Movies are exploding, and Warner Brothers decision to release all of its 2021 releases on HBO Max was a gigantic blow for movie theatres everywhere. The fact that I will be able to watch Godzilla vs. King Kong at home on my phone is so depressing. A film like that deserves to be seen on the largest, loudest screen you can find, with bass so deep it rattles your bones. Clearly this move was a cash grab, so I can't blame Warner Brothers or HBO Max, however it did singe my heart just a little bit. 
+You know what is happening, though? Movies. Movies are exploding, and Warner Bros decision to release all of its 2021 releases on HBO Max was a gigantic blow for movie theatres everywhere. The fact that I will be able to watch Godzilla vs. King Kong at home on my phone is so depressing. A film like that deserves to be seen on the largest, loudest screen you can find, with bass so deep it rattles your bones. Clearly this move was a cash grab, so I can't blame Warner Bros or HBO Max, however it did singe my heart just a little bit. 
 
-So as I write this, the Academy Awards happen next month, and according to Letterboxd, I saw [32 films released in 2020](https://letterboxd.com/beramiah/films/year/2020/). That being said, it was a tough year for films, including Christopher Nolan's Tenet. Some notable highlights from 2020: 'Possessor', 'Horse Girl', 'The Way Back', 'Sputnik', 'The Rental', and 'Hillbilly Elegy' will likely all be ignored by the Oscars vying for more contemporary artsy films that no one has seen yet because they aren't available except in California. What was the last movie you saw in theatres?
+So as I write this, the Academy Awards happen next month, and according to Letterboxd, I saw [32 films released in 2020](https://letterboxd.com/beramiah/films/year/2020/). That being said, it was a tough year for films, including Christopher Nolan's Tenet. Some notable highlights from 2020: 'Possessor', 'Horse Girl', 'The Way Back', 'Sputnik', 'The Rental', and 'Hillbilly Elegy' will likely all be ignored by the Oscars vying for more contemporary, artsy films that no one has seen yet because they aren't available except in California. What was the last movie you saw in theatres?
 
 This is all to say that I am hopeful for the return to movie theatres, a return to concert venues, and a return to my old life. This summer "will be wild", as they say. And if it's not, then I'll probably just write another blog about it.
