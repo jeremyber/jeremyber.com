@@ -3,7 +3,7 @@ name: Deploy Hugo site to S3
 on:
   push:
     branches:
-      - master
+      - hugo-site
 
 jobs:
   publish:
