@@ -20,14 +20,14 @@ Build_and_Deploy:
     with:
         hugo-version: '0.81.0'
 
-  # Builds my repo
-  - name: Build
-    run: hugo --minify
+    # Builds my repo
+    - name: Build
+      run: hugo --minify
 
 
-  # Deploys built website to S3
-  - name: Deploy to S3
-    run: hugo deploy --force --maxDeletes -1 --invalidateCDN
-    env:
-        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+    # Deploys built website to S3
+    - name: Deploy to S3
+      run: hugo deploy --force --maxDeletes -1 --invalidateCDN
+      env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
