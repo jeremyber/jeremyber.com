@@ -1,0 +1,20 @@
+name: Deploy Hugo site to S3
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    container: peaceiris/hugo:latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Build and Deploy
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: |
+          hugo
+          hugo deploy --force --maxDeletes -1 –invalidateCDN
