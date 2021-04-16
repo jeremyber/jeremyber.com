@@ -7,11 +7,11 @@ title: About
 I'm a Solutions Architect at a Cloud Computing company--I love to help people solve their problems in efficient ways. Empathy is a strength and a weakness as I have a passion for helping solve the problems I myself have encountered.
 
 In my career I've worn many hats:
-- A production support specialist for TIBCO systems (ugh)
--  A Java Developer building Java Spring Web Backends for mobile apps
--   A Data Analytics Engineer writing Spark jobs and working with Data Scientists to develop scalable Machine Learning Algorithms
--   A Data Engineer developing streaming pipelines for data science algorithms using Apache Kafka and Apache Flink.
--   And now, a Solutions Architect, helping businesses across the world build their systems beter.
+  -  A production support specialist for TIBCO systems (ugh)
+  -  A Java Developer building Java Spring Web Backends for mobile apps
+  -  A Data Analytics Engineer writing Spark jobs and working with Data Scientists to develop scalable Machine Learning Algorithms
+  -  A Data Engineer developing streaming pipelines for data science algorithms using Apache Kafka and Apache Flink.
+  -  And now, a Solutions Architect, helping businesses across the world build their systems better.
 
 That being said, I love my job when I'm working, and never want to think about it when I'm off the clock.
 
