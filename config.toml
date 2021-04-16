@@ -1,4 +1,4 @@
-baseURL = "jeremyber.com"
+baseURL = "https://admiring-sinoussi-c0811a.netlify.app/"
 languageCode = "en-us"
 title = "Jeremy Ber"
 theme = "minimal"
