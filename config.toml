@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "jeremyber.com"
 languageCode = "en-us"
 title = "Jeremy Ber"
 theme = "minimal"
